@@ -1,3 +1,3 @@
 #Git is a free software.
-How do we solve merge conflicts?
-A:nothing to do.
+Q:How do we solve merge conflicts?
+A:The conflicts shoud be merged manually.
